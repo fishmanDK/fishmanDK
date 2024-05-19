@@ -1,7 +1,5 @@
-<img height="250"  align="left" src="https://i.pinimg.com/564x/fa/6c/45/fa6c4517236028d8ec2a2574fadff64a.jpg" style="margin: 20px 20px 0 0;">
-
 ### Hey!
-I'm **Denis**, a 19 years old web developer.
+I'm **Denis**, a 19 years old web developer. <img height="20" src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif">
 
 ### Find me at
 [![Gmail Badge](https://img.shields.io/badge/-GMail-c14438?-square&logo=Gmail&logoColor=white&link=mailto:denis.23weer@gmail.com)](mailto:denis.23weer@gmail.com)
@@ -18,4 +16,3 @@ I'm **Denis**, a 19 years old web developer.
 ![Git](https://img.shields.io/badge/-Git-F05032?square&logo=git&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-13aa52?square&logo=mongodb&logoColor=white)
-
